@@ -3,13 +3,13 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
+carpentry: ""
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Version Control with Git"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: kathleen.d.moore@nasa.gov
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
